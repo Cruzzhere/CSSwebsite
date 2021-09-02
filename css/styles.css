@@ -39,6 +39,11 @@ hr{
 
 }
 
+ a:hover, a:active {
+    color: #00A19D;
+    font-size: 117%;
+  }
+
 
 /*div :hover{
   background-color:#0CECDD;
